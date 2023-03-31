@@ -1,6 +1,6 @@
 Name:		texlive-babel-occitan
 Version:	39608
-Release:	1
+Release:	2
 Summary:	Babel support for Occitan
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-occitan
