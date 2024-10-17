@@ -3,7 +3,7 @@ Version:	39608
 Release:	2
 Summary:	Babel support for Occitan
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-occitan
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-occitan
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-occitan.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-occitan.doc.r%{version}.tar.xz
